@@ -1,0 +1,12 @@
+ COMMIT Files
+**************
+
+add file into list before commited :
+$ git add (file_name)
+
+-----------------------------------------------------------
+
+commit/sent the files :
+git commit -m 'your_title'
+
+-----------------------------------------------------------
