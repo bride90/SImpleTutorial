@@ -1,0 +1,24 @@
+
+General COmmand :
+
+add		- Add file content to the index
+bisect		- Find by binary search the change that itroduced a bug
+branch		- List, create, or delete branches
+checkout	- checkout a branch or paths to the working tree
+clone		- Clone a repository into a new directory
+commit		- Record changes to the repository
+diff		- SHow change between commit, commits and working tree, etc
+fetch		- Download object and refs from another repository
+grep		- Print line matching a pattern
+init		- Create an empty repository or reinitialized an existing one
+log		- show commit log
+merge		- join two or more development histories together
+mv		- Move or rename a file, a directory, or a symlink
+pull		- Fetch from and merge with another repository or a local branch
+push		- update remote refs aong with associated object
+rebase		- Forward-port local commits to the update upstream head
+reset		- Reset current HEAD to the specific state
+rm		- remove files from the working tree and from the index
+show		- Show various types of objects
+status		- Show the working tree status 
+tag		- Create, list, delete or verify a tag 
