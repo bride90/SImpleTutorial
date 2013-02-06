@@ -1,0 +1,27 @@
+ CREATE Files
+**************
+
+create directory : 
+$ mkdir ~/Hello-WOrld
+
+-----------------------------------------------------------
+
+change directory : current -> newly directory
+$ cd ~/Hello-World
+
+-----------------------------------------------------------
+set up necessary GIT files
+$ git init
+
+-----------------------------------------------------------
+
+create new files :
+$ touch (file_name)
+
+-----------------------------------------------------------
+
+After Editing Files
+
+$ git status
+
+-----------------------------------------------------------
