@@ -1,0 +1,16 @@
+ PUSH COMMIT Files
+*******************
+
+create remote"origin" -> pointing to GITHUB
+$ git remote add origin <link - https://(link)>
+
+-----------------------------------------------------------
+
+send commit in the master branch
+$ git push origin master
+
+or
+
+$ git push origin --a		//for all files
+
+-----------------------------------------------------------
